@@ -1,0 +1,46 @@
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+header button {
+    margin: 0 5px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+header button:hover {
+    transform: scale(1.1);
+}
+.block {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid rgb(201, 196, 196);
+    border-radius: 5px;
+}
+.image-block {
+    background-color: rgb(217, 170, 170);
+}
+.text-block {
+    background-color: rgb(185, 121, 121);
+}
+.card-block {
+    background-color: rgb(200, 200, 89);
+}
+
+
+/* main */
+
+
+
+
+
